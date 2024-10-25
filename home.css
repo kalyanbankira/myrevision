@@ -1,0 +1,26 @@
+table{
+    color:rgb(235, 11, 235);
+    text-align: center;
+    
+    
+}
+body{
+    background-color: rgba(8, 197, 197, 0.219);
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+ /* underlines removes from the links if */
+ a{ text-decoration: none;
+}
+/* with id #one To change the font Style */
+#one{
+    font-family:arial
+}
+#two{
+    font-family:arial
+}
